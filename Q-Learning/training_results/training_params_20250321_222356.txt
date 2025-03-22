@@ -1,0 +1,6 @@
+episodes: 5000
+learning_rate: 0.9
+discount_factor: 0.9
+epsilon_decay_rate: 0.0004
+state_space_bins: 20
+timestamp: 20250321_222356
