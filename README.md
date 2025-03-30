@@ -23,7 +23,7 @@ Este repositorio contiene los trabajos prácticos de la materia **Aprendizaje po
 ## Estructura del Repositorio
 
 ```
-Aprendizaje-Por-Refuerzo-I
+Aprendizaje-Por-Refuerzo-I-MIA
 │── tp1_q_learning
 │   ├── README.md
 │   ├── mountain_car.pkl
