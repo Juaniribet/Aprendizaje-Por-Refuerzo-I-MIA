@@ -1,4 +1,11 @@
-# Proyecto de Aprendizaje por Refuerzo: MountainCar
+# Proyecto de Aprendizaje por Refuerzo: Q learning MountainCar
+
+## Integrantes
+
+- **Juan Ignacio Ribet**\
+  **N° SIU:** a1001
+- **Fabian Sarmiento**\
+  **N° SIU:** 2672002
 
 Este proyecto implementa el algoritmo de Q-learning para resolver el problema clásico de control conocido como MountainCar. El objetivo es que un coche aprenda a subir una colina empinada utilizando aprendizaje por refuerzo.
 
